@@ -1,4 +1,4 @@
-#include <Arduino.h>
+#include <Arduino.h> // Lib do Arduino para o Vscode.
 #include <Servo.h> // Lib do Servo Motor CC;
 
 Servo servo_pin_3; // Comando da lib Servo.h;
