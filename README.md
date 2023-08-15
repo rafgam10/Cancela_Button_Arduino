@@ -37,6 +37,16 @@
 4.E o número de linhas. Quanto mais bibliotecas forem usadas no projeto com Arduino e quanto menor for o número de linhas no código, mais rápido o projeto ficará.
 ```
 
+## Instalar uma biblioteca no Arduino IDE:
+
+### Passo 1:
+
+<img src="/include/Captura%20de%20tela%20de%202023-08-14%2023-09-54.png">
+
+### Passo 2:
+
+<img src="/include/Captura%20de%20tela%20de%202023-08-14%2023-09-54.png">
+
 ## Código:
 
 ```c++
