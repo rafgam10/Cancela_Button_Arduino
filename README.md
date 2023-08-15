@@ -41,11 +41,23 @@
 
 ### Passo 1:
 
-<img src="/include/Captura%20de%20tela%20de%202023-08-14%2023-09-54.png">
+<img src="/include/Captura%20de%20tela%20de%202023-08-14%2023-28-41.png">
 
 ### Passo 2:
 
-<img src="/include/Captura%20de%20tela%20de%202023-08-14%2023-09-54.png">
+<img src="/include/Captura%20de%20tela%20de%202023-08-14%2023-29-13.png">
+
+## Instalar uma biblioteca no Vscode usando o Plaformio.io:
+
+#### Digiter o nome da lib com o código no platformio.ini:
+
+```platformio.ini
+[env:uno]
+platform = atmelavr
+board = uno
+framework = arduino
+lib_deps = Servo
+```
 
 ## Código:
 
